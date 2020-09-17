@@ -1,3 +1,5 @@
+# Automatic Question Paper Genrerator using Python and Mysql
+
 import mysql.connector
 from mysql.connector import errorcode
 import os.path
